@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="6rtyh0.gif"/>
 
 <!--
