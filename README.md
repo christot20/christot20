@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="6rtyh0.gif" width="40" height="40" />
+<img src="6rtyh0.gif"/>
 
 <!--
 **christot20/christot20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
